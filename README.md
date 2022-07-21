@@ -1,3 +1,3 @@
-# COMP1005 - Practical 1 - Introduction to Linux and Python
+# COMP1005 - Practical 0 - Introduction to Linux
 
 Work in progress... README.md
